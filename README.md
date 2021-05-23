@@ -1,4 +1,4 @@
 # Task
 
 API TO CHECH THE TRAINING CENTER DATA UPLOAD WITH POSTMAN:
-![Screenshot](screenshot(90).png)
+![Screenshot](Screenshot%20(90).png)
